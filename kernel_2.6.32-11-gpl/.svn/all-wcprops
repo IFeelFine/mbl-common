@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/90/kernel_2.6.32-11-gpl
+END
+kernel_2.6.32-11-crtsavres-v2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/90/kernel_2.6.32-11-gpl/kernel_2.6.32-11-crtsavres-v2.patch
+END
+kernel_2.6.32-11-accept4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/90/kernel_2.6.32-11-gpl/kernel_2.6.32-11-accept4.patch
+END

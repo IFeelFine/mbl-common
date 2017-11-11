@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/97/kernel_2.6.32-60
+END
+kernel_2.6.32-60-section-mismatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/97/kernel_2.6.32-60/kernel_2.6.32-60-section-mismatch.patch
+END
+kernel_2.6.32-60-APM82181-with-accept4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/95/kernel_2.6.32-60/kernel_2.6.32-60-APM82181-with-accept4.patch
+END
